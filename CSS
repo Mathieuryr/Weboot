@@ -1,1 +1,118 @@
+/* Couleurs personnalisées */
+.orange
+{
+	color: rgb(225, 126, 7)!important;
+}
+.bg-orange
+{
+	background-color: rgb(225, 126, 7);
+}
+.bdr-orange
+{
+	border-color: rgb(225, 126, 7);
+}
+.gray
+{
+	color: rgb(59, 66, 73);
+}
+.bg-gray
+{
+	background-color: rgb(59, 66, 73);
+}
+.bdr-gray
+{
+	border-color: rgb(59, 66, 73);
+}
+.bdr-white
+{
+	border-color: white;
+}
+.bg-darker
+{
+	background-color: rgba(0, 0, 0, 0.3);
+}
 
+/* Polices personnalisées */
+.amatic
+{
+	font-family: 'Amatic SC', cursive;
+}
+.bebas
+{
+	font-family: 'Bebas Neue', cursive;
+}
+.caveat
+{
+	font-family: 'Caveat', cursive;
+}
+.dokdo
+{
+	font-family: 'Dokdo', cursive;
+}
+.homemade
+{
+	font-family: 'Homemade Apple', cursive;
+}
+.kristi
+{
+	font-family: 'Kristi', cursive;
+}
+.montserrat
+{
+	font-family: 'Montserrat', sans-serif;
+}
+.neucha
+{
+	font-family: 'Neucha', cursive;
+}
+.nunito
+{
+	font-family: 'Nunito', sans-serif;
+}
+.quicksand
+{
+	font-family: 'Quicksand', sans-serif;
+}
+.sigmar
+{
+	font-family: 'Sigmar One', cursive;
+}
+
+/* Animations au survol de la souris */
+
+.zoom
+{
+	transition-duration: 1s;
+}
+.zoom:hover
+{
+	transform: scale(1.1);
+}
+
+header
+{
+ position: fixed;
+ z-index: 999;
+ margin: 0;
+ top: 0;
+ width: 100%;
+}
+
+
+/*************************************************************************************************************/
+/*                               COLLECTION DE DIFFÉRENTES POLICES PRETES À L'EMPLOI                         */
+/*************************************************************************************************************/
+/*
+font-family: 'Amatic SC', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Covered By Your Grace', cursive;
+font-family: 'Dokdo', cursive;
+font-family: 'Homemade Apple', cursive;
+font-family: 'Kristi', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Neucha', cursive;
+font-family: 'Nunito', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Sigmar One', cursive;
+*/
